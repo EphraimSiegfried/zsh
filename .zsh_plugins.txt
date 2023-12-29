@@ -1,0 +1,11 @@
+romkatv/powerlevel10k kind:fpath
+zdharma-continuum/fast-syntax-highlighting kind:defer
+
+ohmyzsh/ohmyzsh path:lib/history.zsh
+ohmyzsh/ohmyzsh path:lib/theme-and-appearance.zsh
+ohmyzsh/ohmyzsh path:plugins/colored-man-pages
+ohmyzsh/ohmyzsh path:plugins/vi-mode
+
+ajeetdsouza/zoxide
+zsh-users/zsh-history-substring-search
+Aloxaf/fzf-tab
